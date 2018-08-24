@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get Well Soon Card AR", "Get Well Soon Card AR.csproj", "{AF4A0EF1-2164-0656-4A6D-131C521C924A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get Well Soon Card AR.Editor", "Get Well Soon Card AR.Editor.csproj", "{AB3AE85F-EC18-15FB-BA9E-1FEE6CE92D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF4A0EF1-2164-0656-4A6D-131C521C924A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4A0EF1-2164-0656-4A6D-131C521C924A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4A0EF1-2164-0656-4A6D-131C521C924A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4A0EF1-2164-0656-4A6D-131C521C924A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB3AE85F-EC18-15FB-BA9E-1FEE6CE92D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3AE85F-EC18-15FB-BA9E-1FEE6CE92D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3AE85F-EC18-15FB-BA9E-1FEE6CE92D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3AE85F-EC18-15FB-BA9E-1FEE6CE92D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
